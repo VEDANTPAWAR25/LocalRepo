@@ -1,2 +1,2 @@
 # This is my new repo.
-# Thia is a new Feature
+# This is a new Feature
